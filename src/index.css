@@ -1,0 +1,69 @@
+.background {
+    background-image: url('../public/qqwe.webp');
+    background-size: 90%;
+    background-position: center;
+}
+
+body {
+    background: rgb(0, 0, 0);
+    background: radial-gradient(circle, rgba(0, 0, 0, 1) 100%, rgba(0, 59, 71, 1) 100%, rgba(1, 0, 5, 1) 100%);
+}
+
+.gradient {
+    background-color: #130f40;
+    background-image: linear-gradient(315deg, #130f40 0%, #1b2036 74%);
+}
+
+.gradient1 {
+    background-color: #2b4162;
+    background-image: linear-gradient(320deg, #2b4162 0%, #1e2125 34%);
+    
+}
+
+.done {
+    color: rgb(25, 204, 55);
+}
+
+.fail {
+    color: rgb(235, 14, 14);
+}
+
+.day-headings {
+    color: whitesmoke;
+    padding: 0.5rem;
+}
+
+.text-light {
+    font-family: monospace, 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: 0.05em;
+    color: hsl(191, 24%, 87%);
+}
+p{
+    font-family: monospace, 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: 0.05em;
+    color: hsl(191, 24%, 87%);
+}
+
+.new{
+    
+   
+    background-color: aliceblue;
+}
+
+.habit-ttt{
+    background-color: aquamarine;
+}
+
+.trash-icon{
+    color: "#ff0000" 
+}
+
+
+.habit-title{
+    font-family: monospace, 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: 0.05em;
+    color: hsl(191, 24%, 87%);
+}
